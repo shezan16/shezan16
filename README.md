@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-protfolio-ip7r.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFId0N2bDdoS3dPSGh1Ukluc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHyN8RXiqg-X1V8O_L-Nl_kkDB9QT4qz3_qtBh4ECKFRd1VPMScK_FMth34kL_aem_sDQHoA2RT2r3p6Mk3UYyoQ&h=AUABxWkJk5XDrd7oUK29kaYYnRdk_FZoezlFh6DDebdXlFoC-KyXVAzjh1U4gL3rnYy3-3o0OjYNOIRN0fNNj_F1sDIHr77oTvmpeeEJdY7jsaKLsQ8Je1lxt_63rwLS27Wc](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-protfolio-ip7r.vercel.app%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAcGRvZgVicmlkETFId0N2bDdoS3dPSGh1Ukluc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHyN8RXiqg-X1V8O_L-Nl_kkDB9QT4qz3_qtBh4ECKFRd1VPMScK_FMth34kL_aem_sDQHoA2RT2r3p6Mk3UYyoQ&h=AUABxWkJk5XDrd7oUK29kaYYnRdk_FZoezlFh6DDebdXlFoC-KyXVAzjh1U4gL3rnYy3-3o0OjYNOIRN0fNNj_F1sDIHr77oTvmpeeEJdY7jsaKLsQ8Je1lxt_63rwLS27Wc)
-
+- 👨‍💻 All of my projects are available at https://my-protfolio-ip7r.vercel.app/
 - 💬 Ask me about **Full Stack Dev**
 
 - 📫 How to reach me **ridwanshezan4545@gmail.com**
