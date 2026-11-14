@@ -1,143 +1,236 @@
 <div align="center">
 
-  <img src="assets/shezan-banner.svg" alt="Ridwan Ahamed Shezan — Full-Stack Developer and CSE Student" width="100%" />
+  <img src="./shezan-banner.svg" width="100%" alt="Ridwan Ahamed Shezan - Futuristic Developer Banner" />
 
-  <br />
+  <br/>
 
-  <a href="https://komarev.com/ghpvc/?username=shezan16&style=for-the-badge&color=00D9FF">
-    <img src="https://komarev.com/ghpvc/?username=shezan16&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/sponsors">
-    <img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-7C3AED?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaboration" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shezan16&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
 
-  <p>
-    <a href="https://my-protfolio-ip7r.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-080B12?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:ridwanshezan4545@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080B12?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-    <a href="https://www.facebook.com/ridwan-ahamed-shezan"><img src="https://img.shields.io/badge/FACEBOOK-080B12?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" /></a>
-    <a href="https://www.instagram.com/shezan_ra20"><img src="https://img.shields.io/badge/INSTAGRAM-080B12?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  </p>
+  <br/><br/>
 
   <h3>Turning Ideas Into Digital Experiences Through Code.</h3>
-  <p><em>Full-Stack Developer · CSE Student · Tech Enthusiast</em></p>
+
+  <p>
+    Full-Stack Developer | CSE Student | Tech Enthusiast
+  </p>
+
+  <a href="https://my-protfolio-ip7r.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:ridwanshezan4545@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
 </div>
 
 ---
 
-## ◈ About Me
+## ◈ ABOUT ME
 
-Hi, I'm **Ridwan Ahamed Shezan** — a Computer Science & Engineering student at **Daffodil International University**, driven by curiosity and the desire to build useful digital experiences.
+Hello! I'm **Ridwan Ahamed Shezan**, a Computer Science & Engineering student at **Daffodil International University**.
 
-- Building my foundation in **web development** and programming.
-- Interested in **Artificial Intelligence, Machine Learning**, and emerging technologies.
-- Enjoy turning ideas into practical projects and learning by building.
-- Focused on growing into a capable, thoughtful **full-stack developer**.
+I'm passionate about technology, programming, and building digital experiences that solve real-world problems.
 
-> I believe consistent learning, experimentation, and solving real problems are the foundations of great engineering.
+- Currently focusing on Full-Stack Web Development.
+- Exploring Artificial Intelligence & Machine Learning.
+- Interested in modern technologies and innovative ideas.
+- Enjoy building creative and practical projects.
+- Always learning, experimenting, and improving.
 
-## ◈ Current Focus
+> "Great things are built through curiosity, creativity, and consistency."
 
-| Focus area | What I'm working toward |
-|:--|:--|
-| Full-Stack Development | Understanding how modern web applications work end to end |
-| AI & Machine Learning | Exploring intelligent systems and practical AI applications |
-| Real-World Projects | Building, improving, and documenting useful projects |
-| Continuous Learning | Strengthening fundamentals and exploring modern tools |
+---
 
-## ◈ Technology Stack
-
-### Core skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c&theme=dark" alt="HTML5, CSS3, JavaScript, Tailwind CSS and C" />
-</p>
-
-### Currently exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python&theme=dark" alt="Currently exploring React, Node.js, Express, MongoDB and Python" />
-</p>
-
-### Tools & platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel&theme=dark" alt="Tools: VS Code, Git, GitHub, Figma and Vercel" />
-</p>
-
-<sub>Core skills reflect my current working knowledge. “Currently exploring” technologies are learning goals, not claims of advanced proficiency.</sub>
-
-## ◈ GitHub Analytics
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shezan16&show_icons=true&hide_border=true&bg_color=080B12&title_color=00D9FF&icon_color=8B5CF6&text_color=CBD5E1&ring_color=00D9FF&include_all_commits=true" alt="GitHub statistics for shezan16" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan16&layout=compact&hide_border=true&bg_color=080B12&title_color=00D9FF&text_color=CBD5E1&langs_count=8" alt="Most used programming languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shezan16&theme=transparent&hide_border=true&background=080B12&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak" />
-</div>
-
-### Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shezan16&bg_color=080B12&color=CBD5E1&line=00D9FF&point=8B5CF6&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
-### Profile trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shezan16&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />
-</div>
-
-## ◈ Featured Projects
-
-> Add your real repository and demo URLs below. These are intentionally marked as placeholders so no project links or details are misrepresented.
+## ◈ CURRENT FOCUS
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 · Project One</h3>
-      <p>A short overview of the problem this project solves and the key feature you built.</p>
-      <p><strong>Stack:</strong> Add technologies used</p>
-      <a href="https://github.com/shezan16/REPLACE_WITH_REPOSITORY">↗ Repository</a>
-      &nbsp;·&nbsp;
-      <a href="https://REPLACE_WITH_LIVE_DEMO">Live demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 · Project Two</h3>
-      <p>Describe another practical project, what you learned, and what makes it useful.</p>
-      <p><strong>Stack:</strong> Add technologies used</p>
-      <a href="https://github.com/shezan16/REPLACE_WITH_REPOSITORY">↗ Repository</a>
-      &nbsp;·&nbsp;
-      <a href="https://REPLACE_WITH_LIVE_DEMO">Live demo</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+### Full-Stack Development
+
+Exploring frontend and backend technologies to build complete web applications.
+
+</td>
+<td width="50%">
+
+### Artificial Intelligence
+
+Learning about AI, Machine Learning, and intelligent applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Real-World Projects
+
+Turning ideas into useful applications through programming.
+
+</td>
+<td width="50%">
+
+### Continuous Learning
+
+Improving programming fundamentals and exploring emerging technologies.
+
+</td>
+</tr>
 </table>
 
-## ◈ Learning Journey
+---
 
-- [ ] Build and deploy complete full-stack applications.
-- [ ] Strengthen JavaScript and modern frontend development.
-- [ ] Learn backend architecture, APIs, and database fundamentals.
-- [ ] Explore practical AI/ML workflows.
-- [ ] Improve problem-solving, code quality, and documentation.
+## ◈ TECHNOLOGY STACK
 
-## ◈ Let's Connect
+### Core Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,c&theme=dark" alt="HTML CSS JavaScript Tailwind CSS and C"/>
+</p>
+
+### Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python&theme=dark" alt="React Node.js Express MongoDB and Python"/>
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel&theme=dark" alt="VS Code Git GitHub Figma and Vercel"/>
+</p>
+
+<sub>Note: Core Skills represent my current working knowledge. Technologies under Currently Exploring are learning goals, not claims of advanced proficiency.</sub>
+
+---
+
+## ◈ GITHUB ANALYTICS
 
 <div align="center">
-  <a href="https://my-protfolio-ip7r.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
-  <a href="mailto:ridwanshezan4545@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
-  <br />
-  <a href="https://github.com/shezan16"><img src="https://img.shields.io/badge/GitHub-shezan16-161B22?style=flat&logo=github" alt="GitHub profile" /></a>
-  <a href="https://www.facebook.com/ridwan-ahamed-shezan"><img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook profile" /></a>
-  <a href="https://www.instagram.com/shezan_ra20"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shezan16&show_icons=true&hide_border=true&bg_color=080B12&title_color=00D9FF&icon_color=8B5CF6&text_color=CBD5E1&include_all_commits=true" alt="GitHub Statistics"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shezan16&layout=compact&hide_border=true&bg_color=080B12&title_color=00D9FF&text_color=CBD5E1&langs_count=8" alt="Top Programming Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=shezan16&theme=transparent&hide_border=true&background=080B12&ring=00D9FF&fire=8B5CF6&currStreakLabel=00D9FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub Streak Statistics"/>
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shezan16&bg_color=080B12&color=CBD5E1&line=00D9FF&point=8B5CF6&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## ◈ GITHUB TROPHIES
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=shezan16&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=8" width="100%" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+## ◈ FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 01. Weather Data Analysis System
+
+A project focused on managing and analyzing weather records.
+
+**Technologies:** C, HTML, CSS, JavaScript, Node.js, Express.js
+
+[GitHub Repository](https://github.com/shezan16)
+
+</td>
+<td width="50%">
+
+### 02. Project Coming Soon
+
+Working on new creative and practical development projects.
+
+**Technologies:** To be updated.
+
+[GitHub Profile](https://github.com/shezan16)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ◈ LEARNING JOURNEY
+
+- [ ] Master modern JavaScript.
+- [ ] Build complete Full-Stack applications.
+- [ ] Learn React and advanced frontend development.
+- [ ] Explore Node.js and Express.js.
+- [ ] Understand databases and backend architecture.
+- [ ] Explore Artificial Intelligence and Machine Learning.
+- [ ] Build and deploy real-world applications.
+
+---
+
+## ◈ CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/shezan16">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://fb.com/ridwan-ahamed-shezan">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://instagram.com/shezan_ra20">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:ridwanshezan4545@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://my-protfolio-ip7r.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Build+with+curiosity.;Learn+with+consistency.;Create+with+purpose." alt="Build with curiosity. Learn with consistency. Create with purpose." />
-  <br />
-  <sub>Designed with curiosity · Powered by code · Always evolving</sub>
-</div>
 
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+Code.;Learning+Something+New+Every+Day.;Turning+Ideas+Into+Reality." alt="Animated Developer Text"/>
+
+  <br/><br/>
+
+  **"Code. Create. Innovate. Repeat."**
+
+  <sub>Designed & Developed by Ridwan Ahamed Shezan</sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:2563EB,100:8B5CF6&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
